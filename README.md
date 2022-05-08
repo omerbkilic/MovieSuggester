@@ -27,13 +27,18 @@ Puan tamamlama mantığı: Toplam 220 puanlık görev vardır.
 
 Backlog düzeni ve Story seçimleri: 
 
+
+
 Daily Scrum: yok
 
 Sprint board update: 
+
 https://ibb.co/GVQbDhH
 https://ibb.co/bgWvSQB
 
 Ürün Durumu: 
+
+Sadece kullanılacak renk paleti ve widgetlar belirlendi dolayısıyla ekran görüntüsüne sahip değilim.
 
 Sprint Review: Sonraki Sprintte daha fazla kod yazılacak ve sprinte erken başlanılacak.
 
