@@ -21,21 +21,21 @@ https://miro.com/app/board/uXjVO2yHjpQ=/?share_link_id=580274807506
 # Sprint 1
 Sprint Notları: Uygulamanın renklerine ve hangi widgetların kullanılacağına karar verdim.
 
-Sprint içinde tamamlanması tahmin edilen puan: 
+Sprint içinde tamamlanması tahmin edilen puan: 60. 220 puanı tamamlama yolunda 60 puan ile bailamaya karar verdim.
 
-Puan tamamlama mantığı: 
+Puan tamamlama mantığı: Toplam 220 puanlık görev vardır. 
 
 Backlog düzeni ve Story seçimleri: 
 
-Daily Scrum: 
+Daily Scrum: yok
 
-Sprint board update:
+Sprint board update: 
 
 Ürün Durumu: 
 
 Sprint Review: Sonraki Sprintte daha fazla kod yazılacak ve sprinte erken başlanılacak.
 
-Sprint Retrospective:
+Sprint Retrospective: Sprinte daha erken başlanmalı ve son günlere brakılmamalı
 
 -Diğer Notlar:
 N/A
