@@ -19,11 +19,14 @@ https://miro.com/app/board/uXjVO2yHjpQ=/?share_link_id=580274807506
 
 
 # Sprint 1
-Sprint Notları: Uygulamanın renklerine ve hangi widgetların kullanılacağına karar verdim.
+Sprint Notları:
+Uygulamanın renklerine ve hangi widgetların kullanılacağına karar verdim.
 
-Sprint içinde tamamlanması tahmin edilen puan: 60. 220 puanı tamamlama yolunda 60 puan ile başlamaya karar verdim.
+Sprint içinde tamamlanması tahmin edilen puan:
+60. 220 puanı tamamlama yolunda 60 puan ile başlamaya karar verdim.
 
-Puan tamamlama mantığı: Toplam 220 puanlık görev vardır. 
+Puan tamamlama mantığı: 
+Toplam 220 puanlık görev vardır. 
 
 Backlog düzeni ve Story seçimleri: 
 *************************************************
@@ -35,12 +38,13 @@ https://ibb.co/GVQbDhH
 https://ibb.co/bgWvSQB
 
 Ürün Durumu: 
-
 Sadece kullanılacak renk paleti ve widgetlar belirlendi dolayısıyla ekran görüntüsüne sahip değilim.
 
-Sprint Review: Sonraki Sprintte daha fazla kod yazılacak ve sprinte erken başlanılacak.
+Sprint Review:
+Sonraki Sprintte daha fazla kod yazılacak ve sprinte erken başlanılacak.
 
-Sprint Retrospective: Sprinte daha erken başlanmalı ve son günlere brakılmamalı
+Sprint Retrospective:
+Sprinte daha erken başlanmalı ve son günlere brakılmamalı
 
 -Diğer Notlar:
 N/A
