@@ -8,7 +8,7 @@ Team Xyz
 # Ürün İsmi
 Book Suggester
 # Ürün Açıklaması
-Book suggester uygulmamız ile sunulan istediğiniz türde rastgele bir kitap size önerilecek. Bu sayede hangi kitabı okusam diye kararsız kalmayacak ve yeni kitapları kolayca keşfedebileceksiniz.
+Book suggester uygulamamız ile sunulan istediğiniz türde rastgele bir kitap size önerilecek. Bu sayede hangi kitabı okusam diye kararsız kalmayacak ve yeni kitapları kolayca keşfedebileceksiniz.
 # Ürün Özellikleri
 Sunulan türlerde tamamen rastgele bir şekilde kitap önerir.
 Yazar ve eser bilgisini kullanıcıya verir.
@@ -21,18 +21,16 @@ https://miro.com/app/board/uXjVO2yHjpQ=/?share_link_id=580274807506
 # Sprint 1
 Sprint Notları: Uygulamanın renklerine ve hangi widgetların kullanılacağına karar verdim.
 
-Sprint içinde tamamlanması tahmin edilen puan: 60. 220 puanı tamamlama yolunda 60 puan ile bailamaya karar verdim.
+Sprint içinde tamamlanması tahmin edilen puan: 60. 220 puanı tamamlama yolunda 60 puan ile başlamaya karar verdim.
 
 Puan tamamlama mantığı: Toplam 220 puanlık görev vardır. 
 
 Backlog düzeni ve Story seçimleri: 
-
-
+*************************************************
 
 Daily Scrum: yok
 
 Sprint board update: 
-
 https://ibb.co/GVQbDhH
 https://ibb.co/bgWvSQB
 
