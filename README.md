@@ -30,6 +30,8 @@ Backlog düzeni ve Story seçimleri:
 Daily Scrum: yok
 
 Sprint board update: 
+https://ibb.co/GVQbDhH
+https://ibb.co/bgWvSQB
 
 Ürün Durumu: 
 
