@@ -14,3 +14,13 @@ Movie Suggester
 # Sprint 1
 Sprint Notları: 
 Sprint içinde tamamlanması tahmin edilen puan: 
+Puan tamamlama mantığı: 
+Backlog düzeni ve Story seçimleri: 
+Daily Scrum: 
+Sprint board update:
+Ürün Durumu: 
+Sprint Review: 
+Sprint Retrospective:
+-Diğer Notlar:
+
+N/A
